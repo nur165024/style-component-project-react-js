@@ -2,4 +2,4 @@
 
 ### Image
 
-<img width="150" src="./src/images/projectImgae.png" alt="project image" />
+<img width="300" src="./src/images/projectImgae.png" alt="project image" />
