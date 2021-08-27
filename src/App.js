@@ -1,10 +1,13 @@
 import React from "react";
+import { Navbar } from "./Components";
+import { GlobalStyle } from "./Global.style";
 
 function App() {
   return (
-    <div>
-      <p>this is my style component project</p>
-    </div>
+    <>
+      <GlobalStyle />
+      <Navbar />
+    </>
   );
 }
 
